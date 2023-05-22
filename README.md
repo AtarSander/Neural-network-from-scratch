@@ -14,4 +14,4 @@ Data used for the project is a small portion of images (1000/25000 for train and
 As the implementation of the network is structured as L-layered it can handle more data after changing a few hyperparameters.
 
 ### Results
-The neural network achieves an accuracy of 98% on the training set and an accuracy of 80% on the test set.
+The neural network achieves an accuracy of 83% on the training set and an accuracy of 82% on the test set.
